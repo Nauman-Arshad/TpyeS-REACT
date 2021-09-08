@@ -1,10 +1,11 @@
 import React from 'react';
+import Greet from './components/Greet';
 import './index.css';
 
 function App() {
   return (
     <div className="App">
-      <h4>Nauman khan</h4>
+     <Greet name="Nauman"/>
     </div>
   );
 }
