@@ -35,3 +35,8 @@ function App() {
 }
 
 export default App;
+
+
+// destructuring PROPS 
+// props  types defines just like components in sepeetare file
+// we can import object by name to get thats  props
